@@ -24,8 +24,7 @@ public class LacoCondicional2 {
 		}
 		else {
 			System.out.println("O numero " + a + " é impar e negativo");
-		}
-		
+		}		
 		
 		sc.close();
 
